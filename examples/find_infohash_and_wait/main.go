@@ -26,7 +26,7 @@ import (
 const (
 	httpPortTCP = 8711
 	numTarget   = 10
-	exampleIH   = "deca7a89a1dbdc4b213de1c0d5351e92582f31fb" // ubuntu-12.04.4-desktop-amd64.iso
+	exampleIH   = "d1101a2b9d202811a05e8c57c557a20bf974dc8a" // ubuntu-20.04.1-desktop-amd64.iso
 )
 
 func main() {
