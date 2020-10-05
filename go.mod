@@ -1,6 +1,6 @@
 module github.com/nictuku/dht
 
-go 1.12
+go 1.15
 
 require (
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
